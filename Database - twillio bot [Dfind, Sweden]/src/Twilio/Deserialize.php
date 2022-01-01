@@ -20,7 +20,7 @@ class Deserialize {
             // no-op
         }
 
-        return $s;
+        return $s; 
     }
 }
  

@@ -12,7 +12,7 @@ class Deserialize {
      * @return \DateTime|string DateTime corresponding to the input string, in UTC time.
      */
     public static function dateTime(?string $s) {
-        try {
+        try { 
             if ($s) {
                 return new \DateTime($s, new \DateTimeZone('UTC'));
             }

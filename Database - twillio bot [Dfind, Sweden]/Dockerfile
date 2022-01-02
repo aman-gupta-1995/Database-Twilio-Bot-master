@@ -11,4 +11,3 @@ RUN mv composer.phar /usr/local/bin/composer
 RUN composer install --no-dev
  
 
-

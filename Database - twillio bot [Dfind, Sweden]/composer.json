@@ -5,7 +5,7 @@
     "keywords": ["twilio", "sms", "api"],
     "homepage": "http://github.com/twilio/twilio-php",
     "license": "MIT",
-    "authors": [ 
+    "authors": [
         {
             "name": "Twilio API Team",
             "email": "api@twilio.com"

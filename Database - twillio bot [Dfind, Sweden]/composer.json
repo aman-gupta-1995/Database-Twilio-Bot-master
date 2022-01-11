@@ -1,6 +1,6 @@
 {
     "name": "twilio/sdk",
-    "type": "library",
+    "type": "library", 
     "description": "A PHP wrapper for Twilio's API",
     "keywords": ["twilio", "sms", "api"],
     "homepage": "http://github.com/twilio/twilio-php",

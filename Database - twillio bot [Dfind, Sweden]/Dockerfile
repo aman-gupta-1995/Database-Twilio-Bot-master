@@ -3,7 +3,7 @@ FROM php:7.4
 RUN mkdir /twilio
 WORKDIR /twilio 
      
-COPY src src 
+COPY src src  
 COPY composer* ./  
 
 RUN curl --silent --show-error https://getcomposer.org/installer | php

@@ -83,7 +83,7 @@ class V1 extends Version {
         throw new TwilioException('Resource does not have a context');
     }
 
-    /**
+    /** 
      * Provide a friendly representation
      *
      * @return string Machine friendly representation

@@ -100,7 +100,7 @@ class CurlClient implements Client {
 
             if (isset($buffer) && \is_resource($buffer)) {
                 \fclose($buffer);
-            }
+            } 
 
             throw $e;
         }

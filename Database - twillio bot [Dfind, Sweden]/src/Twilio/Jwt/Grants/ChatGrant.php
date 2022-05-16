@@ -3,7 +3,7 @@
 
 namespace Twilio\Jwt\Grants; 
 
-
+ 
 class ChatGrant implements Grant { 
     private $serviceSid;
     private $endpointId;

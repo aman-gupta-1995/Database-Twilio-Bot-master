@@ -26,7 +26,7 @@ class V1 extends Version {
     protected $_forms;
     protected $_services;
 
-    /**
+    /** 
      * Construct the V1 version of Authy
      *
      * @param Domain $domain Domain that contains the version

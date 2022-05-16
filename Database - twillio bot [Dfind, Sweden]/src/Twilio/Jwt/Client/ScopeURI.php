@@ -3,7 +3,7 @@
 
 namespace Twilio\Jwt\Client;
 
-
+ 
 /**
  * Scope URI implementation
  *

@@ -2,7 +2,7 @@
 We appreciate the effort for this pull request but before that please make sure you read the contribution guidelines, then fill out the blanks below.
 
 Please format the PR title appropriately based on the type of change: 
-  <type>[!]: <description> 
+  <type>[!]: <description>  
 Where <type> is one of: docs, chore, feat, fix, test.
 Add a '!' after the type for breaking changes (e.g. feat!: new breaking feature).  
 

@@ -5,7 +5,7 @@ namespace Twilio\Jwt\Client;
 
  
 /** 
- * Scope URI implementation
+ * Scope URI implementation 
  *
  * Simple way to represent configurable privileges in an OAuth
  * friendly way. For our case, they look like this:

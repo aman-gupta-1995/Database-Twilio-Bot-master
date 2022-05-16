@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Twilio\Jwt\Grants;
+namespace Twilio\Jwt\Grants; 
 
 
 class ChatGrant implements Grant { 

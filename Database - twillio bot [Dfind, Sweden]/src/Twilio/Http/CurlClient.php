@@ -26,7 +26,7 @@ class CurlClient implements Client {
         $options = $this->options($method, $url, $params, $data, $headers,
                                   $user, $password, $timeout);
 
-        $this->lastRequest = $options;
+        $this->lastRequest = $options; 
         $this->lastResponse = null;
 
         try {

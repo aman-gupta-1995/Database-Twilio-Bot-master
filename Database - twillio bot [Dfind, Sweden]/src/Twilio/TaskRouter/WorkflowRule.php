@@ -1,7 +1,6 @@
 <?php
 
 namespace Twilio\TaskRouter; 
-
 /** 
  * Twilio TaskRouter Workflow Rule
  * 

@@ -4,7 +4,7 @@
 namespace Twilio;
 
 
-class ListResource {
+class ListResource { 
     protected $version;
     protected $solution = [];
     protected $uri;

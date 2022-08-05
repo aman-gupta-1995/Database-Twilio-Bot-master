@@ -1,7 +1,7 @@
 <?php 
 
  
-namespace Twilio\Http;    
+namespace Twilio\Http;     
  
    
 use Twilio\Exceptions\EnvironmentException;

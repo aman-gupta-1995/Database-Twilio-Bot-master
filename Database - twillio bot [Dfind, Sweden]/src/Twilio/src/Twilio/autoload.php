@@ -101,7 +101,7 @@ class SplClassLoader {
     /**
      * Gets the file extension of class files in the namespace of this class loader.
      *
-     * @return string $fileExtension
+     * @return string $fileExtension 
      */
     public function getFileExtension(): string {
         return $this->_fileExtension;

@@ -3,7 +3,7 @@
 namespace Twilio;
 
 class Serialize {
-
+ 
     private static function flatten(array $map, array $result = [], array $previous = []): array {
         foreach ($map as $key => $value) {
             if (\is_array($value)) {

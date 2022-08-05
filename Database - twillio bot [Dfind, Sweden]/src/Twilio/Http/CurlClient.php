@@ -5,7 +5,7 @@ namespace Twilio\Http;
  
    
 use Twilio\Exceptions\EnvironmentException;
- 
+  
 class CurlClient implements Client { 
     public const DEFAULT_TIMEOUT = 60;
     protected $curlOptions = [];

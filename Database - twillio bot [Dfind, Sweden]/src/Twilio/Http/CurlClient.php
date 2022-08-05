@@ -3,7 +3,7 @@
  
 namespace Twilio\Http;  
  
-  
+   
 use Twilio\Exceptions\EnvironmentException;
  
 class CurlClient implements Client { 

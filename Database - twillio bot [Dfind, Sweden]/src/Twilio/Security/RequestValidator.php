@@ -4,7 +4,7 @@ namespace Twilio\Security;
 
 use Twilio\Values;           
   
-/** 
+/**
  * RequestValidator is a helper to validate that a request to a web server was actually made from Twilio
  * EXAMPLE USAGE:
  * $validator = new RequestValidator('your auth token here');

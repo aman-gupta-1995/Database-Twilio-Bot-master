@@ -1,6 +1,6 @@
 <?php 
  
-namespace Twilio\Security;  
+namespace Twilio\Security;   
  
 use Twilio\Values;
 
